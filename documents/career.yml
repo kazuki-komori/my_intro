@@ -1,0 +1,41 @@
+careers:
+  -
+    id: 1
+    company_name: chatbox.inc
+    detail: Nuxt.js を用いたフロントエンド開発・PHP Laravel でのサーバーサイド開発
+    date: 2019/11 ~ 2022/02
+  -
+    id: 2
+    company_name: tambourine inc.
+    detail: Node.js TypeScript を用いた slack アプリの開発
+    date: 2020/03
+  -
+    id: 3
+    company_name: e-Seikatsu Co., Ltd.
+    detail: Vue.js を用いた不動産アプリ開発
+    date: 2020/08
+  -
+    id: 4
+    company_name: CyberAgent, Inc.
+    detail: フロントエンド開発型インターン\nハッカソン型のECサイト開発
+    date: 2021/03
+  -
+    id: 5
+    company_name: Amazon Web Services, Inc.
+    detail: AWS 上で動作するwebアプリのトラブルシューティング
+    date: 2021/08
+  -
+    id: 6
+    company_name: DeNA Co., Ltd.
+    detail: 【短期】ソフトウェアエンジニアリング インターン\n高トラフィックな状況を想定した開発
+    date: 2021/09
+  -
+    id: 7
+    company_name: NTT DATA Corporation
+    detail: Terrafrom を用いた AWS 自動構築
+    date: 2021/09
+  -
+    id: 8
+    company_name: Lightblue Technology
+    detail: ML を用いた異常検知手法の検討
+    date: 2022/02

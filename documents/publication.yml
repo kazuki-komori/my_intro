@@ -1,0 +1,43 @@
+publicatios:
+  -
+    id: 1
+    title: サポーターズ・サマーハッカソン vol.2. 優秀賞
+    detail: バーチャル背景作成アプリ Profill の開発
+    tech: Nuxt.js / Tailwind
+    date: 2020/08
+    link: "https://profill-app.net"
+  -
+    id: 2
+    title: Open Hack U 2020 Online vol.4. 優秀賞
+    detail: 貸し忘れ, 返し忘れを防止するアプリの開発
+    tech: React / LIFF / Python / Flask / Postgress / AWS
+    date: 2021/03
+    link: "https://hacku.yahoo.co.jp/hacku2020online4"
+  -
+    id: 3
+    title: サイバーエージェント Tech Challenge 優秀賞
+    detail: 音声で動作するECサイトの開発
+    tech: Nuxt.js / Tailwind
+    date: 2021/03
+    link: "https://speakerdeck.com/kazuyan/ca-tech-challenge-e4253060-f667-4faa-89fe-c09e1a94a02f"
+  -
+    id: 4
+    title: 技育CAMP vol.13. 努力賞
+    detail: エンジニア向けSNSアプリの開発
+    tech: Next.js / Tailwind / Golang / gin / Heroku
+    date: 2022/01
+    link: ""
+  -
+    id: 5
+    title: 経営科学系研究部会連合協議会主催令和３年度データ解析コンペティション関西予選 最優秀賞
+    detail: 検索データのトピック分析と情報の検索支援 －mamariアプリにおける新機能の提案－
+    tech: Python / R
+    date: 2022/02
+    link: "https://jasmac-j.jimdofree.com"
+  -
+    id: 6
+    title: 経営科学系研究部会連合協議会主催令和３年度データ解析コンペティション全国大会 コネヒト賞
+    detail: 検索データのトピック分析と情報の検索支援 －mamariアプリにおける新機能の提案－
+    tech: Python / R
+    date: 2022/03
+    link: "https://jasmac-j.jimdofree.com"

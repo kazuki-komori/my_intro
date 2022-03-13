@@ -3,7 +3,12 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "start": "node .output/server/index.mjs"
+    "start": "node .output/server/index.mjs",
+    "doc": "run-p doc:*",
+    "doc:career": "json-refs resolve -w ./documents/career.yml > ./assets/data/career.json",
+    "doc:publication": "json-refs resolve -w ./documents/publication.yml > ./assets/data/publication.json",
+    "doc:activity": "json-refs resolve -w ./documents/activity.yml > ./assets/data/activity.json",
+    "doc:oss": "json-refs resolve -w ./documents/oss.yml > ./assets/data/oss.json"
   },
   "devDependencies": {
     "nuxt3": "latest"
@@ -11,7 +16,12 @@
   "dependencies": {
     "@nuxtjs/tailwindcss": "^5.0.0",
     "autoprefixer": "^10.4.2",
+    "json-refs": "^3.0.15",
+    "npm-run-all": "^4.1.5",
     "postcss": "^8.4.8",
     "tailwindcss": "^3.0.23"
+  },
+  "volta": {
+    "node": "16.14.0"
   }
 }

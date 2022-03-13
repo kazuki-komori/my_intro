@@ -1,0 +1,10 @@
+oss:
+  -
+    title: nuxt/nuxtjs.org
+    link: https://github.com/nuxt/nuxtjs.org
+  -
+    title: vitejs/docs-ja
+    link: https://github.com/vitejs/docs-ja
+  -
+    title: vue-a11y/vue-a11y.com
+    link: https://github.com/vue-a11y/vue-a11y.com
