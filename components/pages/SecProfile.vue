@@ -1,7 +1,7 @@
 <template>
   <section class="space-y-12">
     <img
-        class="w-24 mx-auto"
+        class="w-24 mx-auto rounded-full"
         width="512"
         height="512"
         src="@/assets/image/neko.jpg"
