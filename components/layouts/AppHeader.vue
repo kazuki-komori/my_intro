@@ -1,5 +1,5 @@
 <template>
-  <header class="max-w-screen-md mx-auto py-3 tracking-wide text-xl">
+  <header class="max-w-screen-md mx-auto p-3 tracking-wide text-xl">
     <nav class="text-right space-x-5">
       <a
         class="duration-500 hover:opacity-90 opacity-60"

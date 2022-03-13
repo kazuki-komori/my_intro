@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-screen-md mx-auto space-y-20">
+  <div class="max-w-screen-md px-4 mx-auto space-y-20">
     <SecProfile/>
     <SecCareer/>
     <SecPublication/>
