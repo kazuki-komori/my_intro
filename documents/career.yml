@@ -39,3 +39,8 @@ careers:
     company_name: Lightblue Technology
     detail: ML を用いた異常検知手法の検討
     date: 2022/02
+  -
+    id: 9
+    company_name: Microsoft Japan Co., Ltd.
+    detail: ACRやAKSを用いたクラウドコンテナの構築
+    date: 2023/02

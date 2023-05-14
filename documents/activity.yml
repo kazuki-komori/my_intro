@@ -1,13 +1,16 @@
 activities:
   -
+    title: Microsoft Japan Co., Ltd.
+    role: Cloud Solution Architect
+  -
     title: 同志社大学 文化情報学研究科 統計科学研究室
-    role: member
+    role: ex-member
   -
     title: Vue.js JP 2022
-    role: Staff
+    role: ex-Staff
   -
     title: 同志社大学エンジニアサークル Do'er
-    role: 代表
+    role: ex-代表・創設
   -
     title: ビジネス・エンジニアサークル Scholar
     role: ex-Tech Lead

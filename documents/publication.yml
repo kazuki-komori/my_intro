@@ -41,3 +41,17 @@ publicatios:
     tech: Python / R
     date: 2022/03
     link: "https://jasmac-j.jimdofree.com"
+  -
+    id: 7
+    title: 2022年度スポーツデータサイエンスコンペティション 野球部門 優秀賞
+    detail: 野球におけるLSTMとLightGBMを用いた時間変化と試合状況に基づく試合時間予測
+    tech: Python / R
+    date: 2022/01
+    link: "https://sports.ywebsys.net/news/archives/0021/"
+  -
+    id: 8
+    title: 第２回野球データ分析競技会 FINALIST
+    detail: ""
+    tech: Python
+    date: 2023/03
+    link: "https://www.baseballjapan.org/jpn/system/prog/bfj_news.php?i=743"
