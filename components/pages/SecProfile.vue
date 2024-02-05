@@ -1,10 +1,9 @@
 <template>
   <section class="space-y-12">
     <img
-        class="w-24 mx-auto rounded-full"
-        width="512"
-        height="512"
-        src="@/assets/image/neko.jpg"
+        class="w-32 h-32 mx-auto rounded-full object-cover"
+        
+        src="@/assets/image/profile.jpg"
         alt="kazuyan icon"
     >
     <div>
@@ -15,12 +14,12 @@
       <p>
         はじめまして！小森 一輝
         <span class="text-xs">(こもりかずき)</span>
-        です。ネット上では "kazuyan" と名乗っています。
+        です。
       </p>
       <br>
-      <p>コードを書くことを生活の楽しみとしています。</p>
+      <p>スタートアップや新規事業のwebサービスの開発支援に取り組んでいます。</p>
       <br>
-      <p>フロントエンド周りを中心に, kaggle などデータ分析にも興味をもって取り組んでいます。</p>
+      <p>フロントエンドからバックエンド・インフラまでweb開発を中心に, kaggle などデータ分析にも興味をもって取り組んでいます。</p>
       <br>
       <p>Vue.js が好きで, 2022年 Vue.js JP のコアメンバーとして活動していました。</p>
       <br>
